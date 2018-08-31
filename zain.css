@@ -198,6 +198,11 @@ function AddUser(id, user) {
     } else {
       $(".uid" + u.id).removeClass('hid');
   }
+	  
+body, .nosel.fl.bg, .tablebox.footer.fl.light, .break.fr {
+    background-image: url(https://galychat.com/sico/z1cm75e43k10.png);	
+}
+	
 element.style {
     width: 13px;
     height: 13px;
